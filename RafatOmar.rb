@@ -1,11 +1,17 @@
 #!/usr/bin/env ruby
+name = "Rafat Omar"
+email = "rafat.0mar@outlook.com"
+slack = "@Rafat_Omar"
+biostack = "Public Health and Genomic Epidemiology"
 
-puts "Rafat Omar"
+puts "Name: " + name
 
-puts "rafat.0mar@outlook.com"
+puts "Email: " + email
 
-puts "@Rafat_Omar"
+puts "Slack: " + slack
 
-puts "Public Health and Genomic Epidemiology"
+puts "Biostack: " + biostack
+
+
 
 
