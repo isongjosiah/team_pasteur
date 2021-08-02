@@ -61,4 +61,3 @@ do
 done
 
 # write from txt to csv file
-
