@@ -2,7 +2,7 @@
 # Bash script to run team mate scripts
 
 # clone the git hub repository
-# git clone https://github.com/isongjosiah/team_pasteur.git
+git clone https://github.com/isongjosiah/team_pasteur.git
 
 # move into the repo folder
 cd team_pasteur
