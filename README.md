@@ -17,6 +17,6 @@ HackBio is a 5-weeks virtual research internship that is practice oriented and f
 [Adeyemi](https://www.linkedin.com/in/samuel-adedayo-62b479145/) is a graduate of Microbiology at Adekunle Ajasin University, Nigeria, where he obtained a Bachelor Of Science degree. He has little experience and the basic knowlegde of Python programming language. He is currently looking to start a Master's degree with research interests in Public Health, Pathogenesis of Infectious Disease, Cancer Genomics, and Medical Microbiology.
 
 ### 4. Arinola Olaonipekun
-![Arinola image](https://user-images.githubusercontent.com/88286377/128045602-ad8a1c7a-a27d-4bc6-b856-2ed3f7177162.jpeg)
+![128045602-ad8a1c7a-a27d-4bc6-b856-2ed3f7177162_160x220](https://user-images.githubusercontent.com/88286477/128060556-dc2071a4-5602-4f25-87d3-6113627074cc.jpeg)
 
-https://www.linkedin.com/in/arinola-olaonipekun-1744091b/ Arinola is a Masters graduate and a PhD student from the Department of Consumer and Food Sciences, University of Pretoria in South Africa. My research area is Predictive Modelling, Novel food processing technologies, Food microbiology and Food safety. My area of interest is Data analysis,model development and Genomics.
+[Arinola](https://www.linkedin.com/in/arinola-olaonipekun-1744091b/) is a Masters graduate and a PhD student from the Department of Consumer and Food Sciences, University of Pretoria in South Africa. My research area is Predictive Modelling, Novel food processing technologies, Food microbiology and Food safety. My area of interest is Data analysis,model development and Genomics.
