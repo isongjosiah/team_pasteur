@@ -8,7 +8,7 @@ HackBio is a 5-weeks virtual research internship that is practice oriented and f
 
 
 ### 2. Priyanka Pandit
-![PicsArt_07-24-12 56 22](https://user-images.githubusercontent.com/88287441/128078733-ddc76f52-6314-44f0-b590-f2ccb6a8cf7f.png)
+![128078733-ddc76f52-6314-44f0-b590-f2ccb6a8cf7f_160x220](https://user-images.githubusercontent.com/88286477/128080060-4f89d12f-3215-4122-8fe0-30abb3510f80.png)
 
 I am a postgraduate from India, pursuing my Masters in Bioanalytical Sciences from University of Mumbai. I am very comfortable with Linux and learning Python. Burgeoning my interests in Drug discovery & development, molecular docking, Proteomics, chemoinformatics, web development, digital marketing
 
