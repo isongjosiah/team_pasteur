@@ -12,7 +12,7 @@ HackBio is a 5-weeks virtual research internship that is practice oriented and f
 
 I am a postgraduate from India, pursuing my Masters in Bioanalytical Sciences from University of Mumbai. I am very comfortable with Linux and learning Python. Burgeoning my interests in Drug discovery & development, molecular docking, Proteomics, chemoinformatics, web development, digital marketing
 
-I love making meaningful connections as I strongly believe in networking. So you can connect with me on LinkedIn: https://www.linkedin.com/in/priyanka-pandit-/
+I love making meaningful connections as I strongly believe in networking. So you can connect with me on LinkedIn: [Priyanka]( https://www.linkedin.com/in/priyanka-pandit-/ )
 
 ### 3. Adedayo Samuel Adeyemi
 
