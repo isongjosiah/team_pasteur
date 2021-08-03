@@ -11,4 +11,4 @@ HackBio is a 5-weeks virtual research internship that is practice oriented and f
 
 
 ### 3. Adedayo Samuel Adeyemi
-![IMG_20200922_180713_596_70](https://user-images.githubusercontent.com/88286477/127996733-bc396c6a-cf52-460b-8970-9bbc96714f90.jpg)
+![IMG_20200922_180713_596_2_88x125](https://user-images.githubusercontent.com/88286477/127997203-69a02c4a-4460-4372-9e2b-95881394deac.jpg)
