@@ -24,3 +24,8 @@ I love making meaningful connections as I strongly believe in networking. So you
 ![128045602-ad8a1c7a-a27d-4bc6-b856-2ed3f7177162_160x220](https://user-images.githubusercontent.com/88286477/128060556-dc2071a4-5602-4f25-87d3-6113627074cc.jpeg)
 
 [Arinola](https://www.linkedin.com/in/arinola-olaonipekun-1744091b/) is a Masters graduate and a PhD student from the Department of Consumer and Food Sciences, University of Pretoria in South Africa. My research area is Predictive Modelling, Novel food processing technologies, Food microbiology and Food safety. My area of interest is Data analysis,model development and Genomics.
+
+
+### 3. Rafat Omar
+![IMG_5263](https://user-images.githubusercontent.com/73296870/128199452-6446e205-70ee-479f-8110-a348233e049c.jpg)
+[Rafat](www.linkedin.com/in/rafat-o-823224101) is MSc Bioinformatics student at Queen Mary's University in London. He is currently finishing his dissertation titled 'Using Bioinformatics to find the causal relationship between Thyroid function and Anemia'. He has collaborated in publishing a paper on [Medrixv](https://www.medrxiv.org/content/10.1101/2021.06.20.21259140v1). He is interested in doing research in Infectious Diseases and Cancer.
