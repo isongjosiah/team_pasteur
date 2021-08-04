@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-name = 'Priyanka'
+name = 'Priyanka Pandit'
 email = 'priyupandit99@gmail.com'
 slack_username = '@PriyankaPandit'
 biostack = 'Drug Development'
