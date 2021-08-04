@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
-name = "Rafat Omar "
-email = "rafat.0mar@outlook.com "
-slack = "@RafatOmar  "
-biostack = "Genomics "
-twitter='@rafat0mar '
+name = "Rafat Omar, "
+email = "rafat.0mar@outlook.com, "
+slack = "@RafatOmar,  "
+biostack = "Genomics, "
+twitter='@rafat0mar, '
 
 #function to calculate hamming distance
 
