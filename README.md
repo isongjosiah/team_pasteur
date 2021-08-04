@@ -27,5 +27,5 @@ I love making meaningful connections as I strongly believe in networking. So you
 
 
 ### 3. Rafat Omar
-![IMG_5263 160x220](https://user-images.githubusercontent.com/73296870/128199452-6446e205-70ee-479f-8110-a348233e049c.jpg)
+![IMG_5263](https://user-images.githubusercontent.com/73296870/128202950-512e7345-0d39-4cc9-867f-c2960e18fd6b.jpg)
 [Rafat](www.linkedin.com/in/rafat-o-823224101) is MSc Bioinformatics student at Queen Mary's University in London. He is currently finishing his dissertation titled 'Using Bioinformatics to find the causal relationship between Thyroid function and Anemia'. He has collaborated in publishing a paper on [Medrixv](https://www.medrxiv.org/content/10.1101/2021.06.20.21259140v1). He is interested in doing research in Infectious Diseases and Cancer.
