@@ -35,5 +35,4 @@ I love making meaningful connections as I strongly believe in networking. So you
 [Ayodele] (https://www.linkedin.com/in/ayodele-ogunlade-88826a120/) is a graduate of Medical Physiology(BSc, MSc) at University of Ilorin, Nigeria. My area of interest is Sport analytics with basic knowlegde of analytics tools such as excel Spss, sigmaplot, powerbi, tableau, jupyternotebook, sql. My research area was cardiovascular physiology, immunology.
 
 ### 6. SHUKURAH ABOLANLE OLAJIDE
- ! [IMG_20180221_110643] 
 [Shukurah] (https://www.linkedin.com/in/shukurah-olajide-18370214b) is a graduate of Microbiology from Osun State University and is currently undergoing her MSc in Microbiology at the Pretigious University of Lagos. She is enthusiastic about Waste management, have keen interest in football. Shukurah aspires to be a researcher in Biotechnolog and/or food microbiology
