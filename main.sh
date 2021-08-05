@@ -4,13 +4,16 @@
 # clone the git hub repository
 git clone https://github.com/isongjosiah/team_pasteur.git
 
+# download all programs
+apt-get -y install ruby
+
 # move into the repo folder
 cd team_pasteur
 
 # list all files in the repo, loop through them and execute conditionally
 files=$(ls *)
-rm -rf temp_file.txt
-touch temp_file.txt
+rm -rf temp_file.csv
+touch temp_file.csv
 
 for file in $files
 do
@@ -24,38 +27,38 @@ do
     "c")
         echo "C file"
         clang $file -o $filename
-        ./$filename >> temp_file.txt
+        ./$filename >> temp_file.csv
         ;;
     "py")
         echo "Python file"
-        python3 $file >> temp_file.txt
+        python3 $file >> temp_file.csv
         ;;
     "js")
         echo "Javascript file"
-        node $file >> temp_file.txt
+        node $file >> temp_file.csv
         ;;
     "c++")
         echo "C++ file"
         g++ -o $filename $file
-        ./$filename >> temp_file.txt
+        ./$filename >> temp_file.csv
         ;;
     "cs")
         echo "Cs file"
         csc $filename
-        ./$file >> temp_file.txt
+        ./$file >> temp_file.csv
         ;;
     "java")
         echo "Java file"
         javac $file
-        java $filename >> temp_file.txt
+        java $filename >> temp_file.csv
         ;;
     "r")
         echo "R file"
-        Rscript $file >> temp_file.txt
+        Rscript $file >> temp_file.csv
         ;;
     "rb")
         echo "Ruby file"
-        ruby $file >> temp_file.txt
+        ruby $file >> temp_file.csv   
     esac
 
 done
