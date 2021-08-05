@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/ruby/
 name = "Rafat Omar, "
 email = "rafat.0mar@outlook.com, "
 slack = "@RafatOmar, "
