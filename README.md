@@ -31,7 +31,8 @@ I love making meaningful connections as I strongly believe in networking. So you
 
 [Rafat](www.linkedin.com/in/rafat-o-823224101) is MSc Bioinformatics student at Queen Mary's University in London. He is currently finishing his dissertation titled 'Using Bioinformatics to find the causal relationship between Thyroid function and Anemia'. He has collaborated in publishing a paper on [Medrixv](https://www.medrxiv.org/content/10.1101/2021.06.20.21259140v1). He is interested in doing research in Infectious Diseases and Cancer.
 
-### 5.![FB_IMG_1620600105871 1](https://user-images.githubusercontent.com/88292598/128380724-00a2cfd8-6883-4ffa-98da-0f48044dfd6c.jpg)
+### 5.![IMG_20210102_181309_299 1](https://user-images.githubusercontent.com/88292598/128381124-a1b3663a-f58d-4f55-9750-a7cfcfa79646.jpg)
+
 
 [Ayodele] (https://www.linkedin.com/in/ayodele-ogunlade-88826a120/) is a graduate of Medical Physiology(BSc, MSc) at University of Ilorin, Nigeria. My area of interest is Sport analytics with basic knowlegde of analytics tools such as excel Spss, sigmaplot, powerbi, tableau, jupyternotebook, sql. My research area was cardiovascular physiology, immunology.
 
