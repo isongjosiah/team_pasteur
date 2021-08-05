@@ -36,5 +36,4 @@ I love making meaningful connections as I strongly believe in networking. So you
 
 ### 6. SHUKURAH ABOLANLE OLAJIDE
 @
-![Snapchat-148480599](https://user-images.githubusercontent.com/88286695/128423340-8f02d0a2-5acf-436e-bf92-ec685ef8603f.jpg)
-https://www.linkedin.com/in/shukurah-olajide-18370214b is a graduate of Microbiology from Osun State University and is currently undergoing her MSc in Microbiology at the Pretigious University of Lagos. She is enthusiastic about Waste management, have keen interest in football. Shukurah aspires to be a researcher in Biotechnolog and/or food microbiology
+![Snapchat-148480599](https://user-images.githubusercontent.com/88286695/128423340-8f02d0a2-5acf-436e-bf92-ec685ef8603f.jpg)[Shukurah] (https://www.linkedin.com/in/shukurah-olajide-18370214b) is a graduate of Microbiology from Osun State University and is currently undergoing her MSc in Microbiology at the Pretigious University of Lagos. She is enthusiastic about Waste management, have keen interest in football. Shukurah aspires to be a researcher in Biotechnolog and/or food microbiology
