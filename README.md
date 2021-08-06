@@ -39,4 +39,6 @@ I love making meaningful connections as I strongly believe in networking. So you
 [Shukurah](https://www.linkedin.com/in/shukurah-olajide-18370214b) is a graduate of Microbiology from Osun State University and is currently undergoing her MSc in Microbiology at the Pretigious University of Lagos. She is enthusiastic about Waste management, have keen interest in football. Shukurah aspires to be a researcher in Biotechnolog and/or food microbiology
 
 ### 7. XAVIER VICTOR KANU
-![Xavier](http://theafarainitiative.org/wp-content/uploads/2021/07/Xavier-TBP-Kanu-Xavier.jpg) is a graduate of biochemistry from the University of Lagos and an Ordinary National Diploma (OND) holder in Food Technology from the prestigious Yaba College of Technology. I'm enthusiastic about the use of Data Analytics in clinical science with interest in  biochemical pharmacology and drug development.
+![Xavier](http://theafarainitiative.org/wp-content/uploads/2021/07/Xavier-TBP-Kanu-Xavier.jpg)
+
+Xavier is a graduate of biochemistry from the University of Lagos and an Ordinary National Diploma (OND) holder in Food Technology from the prestigious Yaba College of Technology. I'm enthusiastic about the use of Data Analytics in clinical science with interest in  biochemical pharmacology and drug development.
