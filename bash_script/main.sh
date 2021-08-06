@@ -33,37 +33,43 @@ do
     # execute based on extension and write information to txt file
     case $extension in
     "c")
+        echo "Executing C file"
         clang $file -o $filename
         ./$filename >> pasteur.csv
         ;;
     "py")
+        echo "Executing python file"
         python3 $file >> pasteur.csv
         ;;
     "js")
+        echo "Executing javascript file"
         node $file >> pasteur.csv
         ;;
-    "c++")
+    "cpp")
+        echo "Executing C++ file"
         clang -o $filename $file
         ./$filename >> pasteur.csv
         ;;
     "cs")
+        echo "Executing CS file"
         csc $filename
         ./$file >> pasteur.csv
         ;;
     "java")
+        echo "Executing Java file"
         javac $file
         java $filename >> pasteur.csv
         ;;
     "r")
+        echo "Executing R file"
         Rscript $file >> pasteur.csv
         ;;
     "rb")
+        echo "Executing Ruby file"
         ruby $file >> pasteur.csv
         ;;
     "sh")
-        if [ "$file" == "main.sh" ]; then 
-        continue
-        fi
+        echo "Executing Bash file"
         chmod +x $file
         ./$file >> pasteur.csv
     esac
