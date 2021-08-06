@@ -21,7 +21,7 @@ cd team_pasteur
 files=$(ls *)
 sudo rm -rf pasteur.csv
 touch pasteur.csv
-echo "name, email, slack_username, biostack, twitter_handle, hamming_distance"
+echo "name, email, slack_username, biostack, twitter_handle, hamming_distance" >> pasteur.csv
 
 for file in $files
 do
