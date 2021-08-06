@@ -3,10 +3,7 @@
 ## Team Pasteur
 
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
-### 1. John Njogu
-![20160729_150824](https://user-images.githubusercontent.com/76898485/128559899-90cf93ff-af8c-4762-9a2d-cda8af60ad12.jpg)
-
-Johny is a Biotechnologist and a molecular biology enthusiast. He is passioinate about virology, transcriptomics, molecular docking and metagenomics. His main strength is in design and computational thinking. 
+### 1. 
 
 
 
@@ -40,3 +37,6 @@ I love making meaningful connections as I strongly believe in networking. So you
 ### 6. SHUKURAH ABOLANLE OLAJIDE
 ![128423340-8f02d0a2-5acf-436e-bf92-ec685ef8603f_160x220](https://user-images.githubusercontent.com/88286477/128535326-661ecbac-9d56-4ef8-819e-f6299917c2cf.jpg)
 [Shukurah](https://www.linkedin.com/in/shukurah-olajide-18370214b) is a graduate of Microbiology from Osun State University and is currently undergoing her MSc in Microbiology at the Pretigious University of Lagos. She is enthusiastic about Waste management, have keen interest in football. Shukurah aspires to be a researcher in Biotechnolog and/or food microbiology
+
+### 7. XAVIER VICTOR KANU
+![Xavier](http://theafarainitiative.org/wp-content/uploads/2021/07/Xavier-TBP-Kanu-Xavier.jpg) is a graduate of biochemistry from the University of Lagos and an Ordinary National Diploma (OND) holder in Food Technology from the prestigious Yaba College of Technology. I'm enthusiastic about the use of Data Analytics in clinical science with interest in  biochemical pharmacology and drug development.
