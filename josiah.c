@@ -18,5 +18,5 @@ int calculate_hamming_dist() {
 }
 
 int main (int argc, char *argv[]) {
-    printf("Isong Josiah isongjosiah@gmail.com @%s  Drug development %d @%s\n",slack, calculate_hamming_dist(), twitter);
+    printf("Isong Josiah, isongjosiah@gmail.com, @%s,  Drug development, %d, @%s\n",slack, calculate_hamming_dist(), twitter);
 }
