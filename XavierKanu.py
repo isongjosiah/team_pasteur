@@ -25,4 +25,4 @@ hamming_distance = hammingDist(Twitter, Slack)
 
 # function call
 print(name, email, slack_username, biostack,
-      twitter, hamming_distance, sep="\n")
+      twitter, hamming_distance, sep=",")

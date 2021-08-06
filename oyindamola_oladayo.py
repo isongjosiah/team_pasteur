@@ -13,4 +13,4 @@ def compute_hd(slack, twitter):
     return count
 
 
-print(f'Oyindamola oladayo, oyindamolaoladayo@gmail.com @oyin22 drug develpment, @oyin.o, {compute_hd("oyin22", "oyin.o")}')
+print(f'Oyindamola oladayo, oyindamolaoladayo@gmail.com,@oyin22, drug develpment, @oyin.o, {compute_hd("oyin22", "oyin.o")}')
