@@ -2,6 +2,7 @@ Name= ('ogunlade ayodele')
 Email= ('ogunladeayodele.t@gmail.com')
 Slackname= ('Ayox')
 Biostack= ('Data Science')
+Twitter= ('Yoxblog')
 
 def hamming_distance(s1,s2):
     count = 0
@@ -12,3 +13,5 @@ def hamming_distance(s1,s2):
     return count
 
 print(hamming_distance('Ayox','yoxblog'))
+
+print(Name, Email, Slackname, Biostack, Twitter, hamming_distance)
