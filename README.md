@@ -27,7 +27,7 @@ I love making meaningful connections as I strongly believe in networking. So you
 
 
 ### 3. Rafat Omar
-![IMG_5263](https://user-images.githubusercontent.com/73296870/128202950-512e7345-0d39-4cc9-867f-c2960e18fd6b.jpg)
+![128202950-512e7345-0d39-4cc9-867f-c2960e18fd6b_160x220](https://user-images.githubusercontent.com/88286477/128535313-ea0f4d71-f6d2-475f-885b-fa74123c9ebf.jpg)
 
 [Rafat](www.linkedin.com/in/rafat-o-823224101) is MSc Bioinformatics student at Queen Mary's University in London. He is currently finishing his dissertation titled 'Using Bioinformatics to find the causal relationship between Thyroid function and Anemia'. He has collaborated in publishing a paper on [Medrixv](https://www.medrxiv.org/content/10.1101/2021.06.20.21259140v1). He is interested in doing research in Infectious Diseases and Cancer.
 
@@ -35,5 +35,5 @@ I love making meaningful connections as I strongly believe in networking. So you
 [Ayodele](https://www.linkedin.com/in/ayodele-ogunlade-88826a120/) is a graduate of Medical Physiology(BSc, MSc) at University of Ilorin, Nigeria. My area of interest is Sport analytics with basic knowlegde of analytics tools such as excel Spss, sigmaplot, powerbi, tableau, jupyternotebook, sql. My research area was cardiovascular physiology, immunology.
 
 ### 6. SHUKURAH ABOLANLE OLAJIDE
-![Snapchat-148480599](https://user-images.githubusercontent.com/88286695/128423340-8f02d0a2-5acf-436e-bf92-ec685ef8603f.jpg)
+![128423340-8f02d0a2-5acf-436e-bf92-ec685ef8603f_160x220](https://user-images.githubusercontent.com/88286477/128535326-661ecbac-9d56-4ef8-819e-f6299917c2cf.jpg)
 [Shukurah](https://www.linkedin.com/in/shukurah-olajide-18370214b) is a graduate of Microbiology from Osun State University and is currently undergoing her MSc in Microbiology at the Pretigious University of Lagos. She is enthusiastic about Waste management, have keen interest in football. Shukurah aspires to be a researcher in Biotechnolog and/or food microbiology
