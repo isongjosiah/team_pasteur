@@ -24,3 +24,16 @@ I love making meaningful connections as I strongly believe in networking. So you
 ![128045602-ad8a1c7a-a27d-4bc6-b856-2ed3f7177162_160x220](https://user-images.githubusercontent.com/88286477/128060556-dc2071a4-5602-4f25-87d3-6113627074cc.jpeg)
 
 [Arinola](https://www.linkedin.com/in/arinola-olaonipekun-1744091b/) is a Masters graduate and a PhD student from the Department of Consumer and Food Sciences, University of Pretoria in South Africa. My research area is Predictive Modelling, Novel food processing technologies, Food microbiology and Food safety. My area of interest is Data analysis,model development and Genomics.
+
+
+### 3. Rafat Omar
+![IMG_5263](https://user-images.githubusercontent.com/73296870/128202950-512e7345-0d39-4cc9-867f-c2960e18fd6b.jpg)
+
+[Rafat](www.linkedin.com/in/rafat-o-823224101) is MSc Bioinformatics student at Queen Mary's University in London. He is currently finishing his dissertation titled 'Using Bioinformatics to find the causal relationship between Thyroid function and Anemia'. He has collaborated in publishing a paper on [Medrixv](https://www.medrxiv.org/content/10.1101/2021.06.20.21259140v1). He is interested in doing research in Infectious Diseases and Cancer.
+
+### 5. OGUNLADE AYODELE
+[Ayodele](https://www.linkedin.com/in/ayodele-ogunlade-88826a120/) is a graduate of Medical Physiology(BSc, MSc) at University of Ilorin, Nigeria. My area of interest is Sport analytics with basic knowlegde of analytics tools such as excel Spss, sigmaplot, powerbi, tableau, jupyternotebook, sql. My research area was cardiovascular physiology, immunology.
+
+### 6. SHUKURAH ABOLANLE OLAJIDE
+![Snapchat-148480599](https://user-images.githubusercontent.com/88286695/128423340-8f02d0a2-5acf-436e-bf92-ec685ef8603f.jpg)
+[Shukurah](https://www.linkedin.com/in/shukurah-olajide-18370214b) is a graduate of Microbiology from Osun State University and is currently undergoing her MSc in Microbiology at the Pretigious University of Lagos. She is enthusiastic about Waste management, have keen interest in football. Shukurah aspires to be a researcher in Biotechnolog and/or food microbiology
