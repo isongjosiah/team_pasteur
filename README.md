@@ -3,7 +3,10 @@
 ## Team Pasteur
 
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
-### 1. 
+### 1. John Njogu
+![20160729_150824](https://user-images.githubusercontent.com/76898485/128559899-90cf93ff-af8c-4762-9a2d-cda8af60ad12.jpg)
+
+Johny is a Biotechnologist and a molecular biology enthusiast. He is passioinate about virology, transcriptomics, molecular docking and metagenomics. His main strength is in design and computational thinking. 
 
 
 
