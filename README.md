@@ -50,4 +50,4 @@ Xavier is a graduate of biochemistry from the University of Lagos and an Ordinar
 [Josiah](https://www.linkedin.com/in/isong-josiah-009) is a graduate of Biochemistry from the university of Lagos, Akoka. Currently a Research Assistant at the Ngeria Institue of Medical Science. Interested in research in genomics and drug development.
 
 ### 9. OLUNOIKI BOLUWATIFE
-[Tifee_] Is a graduate of Microbiology from Bowen University,Iwo, Osun State,Nigeria. Currently studying for a Maters In Molecular biology at Saint Petersburg National Research University ITMO, Russia. I am interested in genomics and drug discovery.
+ Is a graduate of Microbiology from Bowen University,Iwo, Osun State,Nigeria. Currently studying for a Maters In Molecular biology at Saint Petersburg National Research University ITMO, Russia. I am interested in genomics and drug discovery.
