@@ -1,4 +1,9 @@
-print("John Njogu," , "jnnjogu6@gmail.com,","@Johny,","Transcriptomics,","@johny")
+name= ("John Njogu")
+email = ("jnnjogu6@gmail.com")
+slack = ("@Johny")
+biostacks = ("Transcriptomics")
+twit = ("@johny")
+print(name, email, slack, biostacks, twit)
 
 def Hdist(s1,s2):
     count=0
@@ -9,4 +14,4 @@ def Hdist(s1,s2):
     print(count)
     return count
 
-Hdist("@johny", "@Johny")
+Hdist(slack , twit)
