@@ -45,3 +45,6 @@ I love making meaningful connections as I strongly believe in networking. So you
 ![Xavier](http://theafarainitiative.org/wp-content/uploads/2021/07/Xavier-TBP-Kanu-Xavier.jpg)
 
 Xavier is a graduate of biochemistry from the University of Lagos and an Ordinary National Diploma (OND) holder in Food Technology from the prestigious Yaba College of Technology. I'm enthusiastic about the use of Data Analytics in clinical science with interest in  biochemical pharmacology and drug development.
+
+### 8. ISONG JOSIAH 
+[Josiah](https://www.linkedin.com/in/isong-josiah-009) is a graduate of Biochemistry from the university of Lagos, Akoka. Currently a Research Assistant at the Ngeria Institue of Medical Science. Interested in research in genomics and drug development.
