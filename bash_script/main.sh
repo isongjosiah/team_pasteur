@@ -60,7 +60,7 @@ do
         javac $file
         java $filename >> pasteur.csv
         ;;
-    "r")
+    "R")
         echo "Executing R file"
         Rscript $file >> pasteur.csv
         ;;
