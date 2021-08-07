@@ -5,6 +5,7 @@
 git clone https://github.com/isongjosiah/team_pasteur.git
 
 # download all programs
+sudo apt-get -y install git
 sudo apt-get -y install ruby
 sudo apt-get -y install python3
 sudo apt-get -y install clang
