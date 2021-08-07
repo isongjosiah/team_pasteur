@@ -53,6 +53,4 @@ Xavier is a graduate of biochemistry from the University of Lagos and an Ordinar
  Is a graduate of Microbiology from Bowen University,Iwo, Osun State,Nigeria. Currently studying for a Maters In Molecular biology at Saint Petersburg National Research University ITMO, Russia. I am interested in genomics and drug discovery.
 
 ### 10. OLUTOLA VIVIAN AWOSIKU
-[Olutola] ![IMG_-1pkesz](https://user-images.githubusercontent.com/32557428/128598769-aa7c9808-636f-4113-b672-35cb68c6ff14.jpg)(http://www.linkedin.com/in/olutolaawosiku)
-
-Olutola is a Medical Laboratory Science Graduate from the University of Ibadan. I'm enthusiastic about the use of Data Science and Machine Learning in clinical science.
+![IMG_-1pkesz](https://user-images.githubusercontent.com/32557428/128598769-aa7c9808-636f-4113-b672-35cb68c6ff14.jpg) [Olutola](http://www.linkedin.com/in/olutolaawosiku) is a Medical Laboratory Science Graduate from the University of Ibadan. I'm enthusiastic about the use of Data Science and Machine Learning in clinical science.
