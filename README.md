@@ -3,8 +3,11 @@
 ## Team Pasteur
 
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
-### 1. 
 
+### 1. John Njogu
+
+
+Johny is a biotechnologist and a molecular biologist enthusiast. His background is in Biological sciences with a keen interest on transcriptomics, metagenomics and molecular docking. He loves hicking and travelling.
 
 
 ### 2. Priyanka Pandit
@@ -37,3 +40,11 @@ I love making meaningful connections as I strongly believe in networking. So you
 ### 6. SHUKURAH ABOLANLE OLAJIDE
 ![128423340-8f02d0a2-5acf-436e-bf92-ec685ef8603f_160x220](https://user-images.githubusercontent.com/88286477/128535326-661ecbac-9d56-4ef8-819e-f6299917c2cf.jpg)
 [Shukurah](https://www.linkedin.com/in/shukurah-olajide-18370214b) is a graduate of Microbiology from Osun State University and is currently undergoing her MSc in Microbiology at the Pretigious University of Lagos. She is enthusiastic about Waste management, have keen interest in football. Shukurah aspires to be a researcher in Biotechnolog and/or food microbiology
+
+### 7. XAVIER VICTOR KANU
+![Xavier](http://theafarainitiative.org/wp-content/uploads/2021/07/Xavier-TBP-Kanu-Xavier.jpg)
+
+Xavier is a graduate of biochemistry from the University of Lagos and an Ordinary National Diploma (OND) holder in Food Technology from the prestigious Yaba College of Technology. I'm enthusiastic about the use of Data Analytics in clinical science with interest in  biochemical pharmacology and drug development.
+
+### 8. ISONG JOSIAH 
+[Josiah](https://www.linkedin.com/in/isong-josiah-009) is a graduate of Biochemistry from the university of Lagos, Akoka. Currently a Research Assistant at the Ngeria Institue of Medical Science. Interested in research in genomics and drug development.

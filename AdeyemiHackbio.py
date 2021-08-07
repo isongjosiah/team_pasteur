@@ -7,15 +7,11 @@ biostack = ('Genomics')
 twitter_handle = ('@Yemisamx')
 
 def h_d(str1, str2):
-    # Start with a distance of zero, and count up
     distance = 0
-    # Loop over the indices of the string
     L = len(str1)
     for i in range(L):
-        # Add 1 to the distance if these two characters are not equal
         if str1[i] != str2[i]:
             distance += 1
-    # Return the final count of differences
     return distance
 
 hamming_distance = h_d(slack_username, twitter_handle)
