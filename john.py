@@ -1,11 +1,11 @@
 name= ("John Njogu")
 email = ("jnnjogu6@gmail.com")
-slack = ("@Johny")
-biostacks = ("Transcriptomics")
-twit = ("@johny")
-print(name, email, slack, biostacks, twit)
+slack_username = ("@Johny")
+biostack = ("Transcriptomics")
+twitter_handle = ("@johny")
+print(name, email, slack_username, biostack, twitter_handle)
 
-def Hdist(s1,s2):
+def Hamming_distance(s1,s2):
     count=0
     l = len(s1)
     for i in range (l):
@@ -14,4 +14,4 @@ def Hdist(s1,s2):
     print(count)
     return count
 
-Hdist(slack , twit)
+Hamming_distance(slack_username , twitter_handle)
