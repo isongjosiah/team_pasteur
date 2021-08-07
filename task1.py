@@ -17,6 +17,5 @@ email = shukuraholajide@gmail.com
 biostack = genomics
 
 
-print('name, email, biostack, slack, twitter, hamming_distance(slack, twitter)')
+print('name, email, biostack, slack, twitter, hamming_distance(slack, twitter), sep="')
 
-hamming_distance( )
