@@ -20,4 +20,4 @@ def h_d(string1, string2):
 
 hamming_distance = h_d(slack_username, twitter_handle)
 
-print(name, email ,slack_username, biostack, twitter_handle, hamming_distance )
+print(name, email ,slack_username, biostack, twitter_handle, hamming_distance, sep=",")
