@@ -12,6 +12,6 @@ def hamming_distance(s1,s2):
             count += 1
     return count
 
-print(hamming_distance('Ayox','yoxblog'))
+hamming_distance= HmmD('Ayox','yoxblog'))
 
 print(Name, Email, Slackname, Biostack, Twitter, hamming_distance)
