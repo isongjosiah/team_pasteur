@@ -20,4 +20,4 @@ hamming_Dist = hammingDist(twitter, slack_Username)
 
 
 #function call
-print (name, email, slack_Username, biostack, hamming_Dist)
+print (name, email, slack_Username, biostack, hamming_Dist, sep=",")
