@@ -7,7 +7,7 @@ HackBio is a 5-weeks virtual research internship that is practice oriented and f
 ### 1. John Njogu
 
 
-Johny is a biotechnologist and a molecular biologist enthusiast. His background is in Biological sciences with a keen interest on transcriptomics, metagenomics and molecular docking. He loves hicking and travelling.
+Johny is a biotechnologist and a molecular biologist enthusiast. His background is in Biological sciences with a keen interest on transcriptomics, metagenomics and molecular docking. He loves hicking and travelling. Here is a link to my linked in profile ![Johny](https://www.linkedin.com/in/john-njogu)
 
 
 ### 2. Priyanka Pandit
