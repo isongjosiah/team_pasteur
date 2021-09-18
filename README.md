@@ -13,7 +13,7 @@ Johny is a biotechnologist and a molecular biologist enthusiast. His background 
 ### 2. Priyanka Pandit
 ![128078733-ddc76f52-6314-44f0-b590-f2ccb6a8cf7f_160x220](https://user-images.githubusercontent.com/88286477/128080060-4f89d12f-3215-4122-8fe0-30abb3510f80.png)
 
-I am a postgraduate from India, pursuing my Masters in Bioanalytical Sciences from University of Mumbai. I am very comfortable with Linux and learning Python. Burgeoning my interests in Drug discovery & development, molecular docking, Proteomics, chemoinformatics, web development, digital marketing
+I am a postgraduate from India, pursuing my Masters in Bioanalytical Sciences from University of Mumbai. My interest is in Drug discovery & development, molecular docking, molecular biology, market research, etc.
 
 I love making meaningful connections as I strongly believe in networking. So you can connect with me on LinkedIn: [Priyanka]( https://www.linkedin.com/in/priyanka-pandit-/ )
 
